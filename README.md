@@ -42,6 +42,6 @@ When your branch has been pushed up to GitHub, go to the repo page and you shoul
 
 Congrats you have just learned how to make changes to a repo on GitHub!!!
 
-##**Challenge: Git Branching**
-If you want to learn more about using Git go through (Learn Git Branching)[http://pcottle.github.io/learnGitBranching/]
+##**Stretch Homework Challenge: Git Branching**
+If you want to learn more about using Git go through [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
