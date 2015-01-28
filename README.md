@@ -6,12 +6,12 @@ In this Challenge you will be working with Git and GitHub. You will be learning 
 
 ##**Release 0: Clone Repo**
 
-First, get the URL of the repo that you want to clone and copy it. You can find this on the on the right column with HTTPS clone URL. Then go into your terminal and type ```git clone https://github.com/JackMarx/blue1647_rails_curriculum.git```.
+First, get the URL of the repo that you want to clone and copy it. You can find this on the on the right column with HTTPS clone URL. Then go into your terminal and type ```https://github.com/bluerails/github.git```.
 
 Once this is done it should display something like this:
 
 ```
-Cloning into 'blue1647_rails_curriculum'...
+Cloning into 'bluerails'...
 remote: Counting objects: 94, done.
 remote: Total 94 (delta 0), reused 0 (delta 0)
 Unpacking objects: 100% (94/94), done.
@@ -34,7 +34,7 @@ Before you push your branch, switch back to your master branch using ```git chec
 Now, checkout your branch and push your branch up to GitHub using ```git push origin branch_name``` .  You should see something like:
 
 ```
-To https://github.com/JackMarx/blue1647_rails_curriculum.git
+To https://github.com/bluerails/github.git
  * [new branch]      branch_name -> branch_name
 ```
 
